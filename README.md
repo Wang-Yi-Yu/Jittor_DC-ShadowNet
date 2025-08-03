@@ -35,9 +35,9 @@ For additional environment configuration details, please refer to `requirements.
 
 For downloading the relevant datasets, please refer to the author's [GitHub project](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal?tab=readme-ov-file#datasets). 
 
-遗憾的是，在训练结束后，我发现 SRD 数据集存在着文件名不匹配的问题，这导致了训练、测试、评估阶段的一系列问题。由于我时间和精力有限，目前我只修改了 SRD 数据集的 test 数据集，可以从这里下载。
+遗憾的是，在训练结束后，我发现 SRD 数据集存在着文件名不匹配的问题，这导致了训练、测试、评估阶段的一系列问题。由于我时间和精力有限，目前我只修改了 SRD 数据集的 test 数据集，可以从[这里](https://pan.baidu.com/s/1IX8XQTvU3GaCyP8sskYHFQ?pwd=y2yz)下载。
 
-Unfortunately, upon completing the training, I discovered file name mismatches in the SRD dataset, which caused issues during the training, testing, and evaluation phases. Due to limited time and resources, I have currently only modified the test set of the SRD dataset, which can be downloaded here.
+Unfortunately, upon completing the training, I discovered file name mismatches in the SRD dataset, which caused issues during the training, testing, and evaluation phases. Due to limited time and resources, I have currently only modified the test set of the SRD dataset, which can be downloaded [here](https://pan.baidu.com/s/1IX8XQTvU3GaCyP8sskYHFQ?pwd=y2yz).
 
 ### 2.3 Pre-train model
 目前我只在 SRD 数据集上完成训练，可以从[这里](https://pan.baidu.com/s/1IX8XQTvU3GaCyP8sskYHFQ?pwd=y2yz)下载。
