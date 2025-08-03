@@ -26,9 +26,9 @@ This project is an assessment task under the cultivation phase of the GrokCV Spr
 
 When reproducing this paper, I built the environment based on `Ubuntu=24.04, python=3.12.11, cuda=12.4, cudnn=9.1.1.17`.
 
-更多环境配置，请参考 `requirements.txt` .
+更多环境配置，请参考 [requirements.txt](requirements.txt) .
 
-For additional environment configuration details, please refer to `requirements.txt`.
+For additional environment configuration details, please refer to [requirements.txt](requirements.txt).
 
 ### 2.2 Dataset
 相关数据集的下载，请参照论文作者的[ Github 项目](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal?tab=readme-ov-file#datasets) 。
