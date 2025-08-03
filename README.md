@@ -132,6 +132,10 @@ Jittor_DC-ShadowNet
 ``` 
 Jittor_DC-ShadowNet
 |-- test_single_input
+|-- results
+    |-- SRD
+        |-- model
+            |-- SRD_params_500000.pkl
 ```
 #### 3.3.2 Commands
 ``` 
