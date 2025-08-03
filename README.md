@@ -198,7 +198,7 @@ Due to introducing the three loss functions from the paper only in the later pha
     <img  src="github_pic/pic2.png" >
 </p>
 
-## 4. Acknowledges
+## 4. Acknowledgements
 
 首先，我要感谢论文的作者以及他们的团队，感谢他们发表了如此优秀的论文，也感谢他们在 Github 项目中详细阐述了操作方法，让我这个初学者有机会去复现他们的代码。
 
